@@ -1,0 +1,14 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2{
+	font-family: 'Carattere', cursive;
+}
+
+img{
+	height: 222px;
+	width: 222px;
+	border-radius: 50%;
+}
